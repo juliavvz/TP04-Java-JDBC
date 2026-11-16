@@ -86,6 +86,10 @@ Após a compilação, execute a classe principal da aplicação pela sua IDE.
 
 Assistir ao vídeo de demonstração: https://youtu.be/JAitQqGBmsY?is=g-7rxdqXj-oScdfT
 
+### Banco de dados
+
+Banco de dados: https://youtu.be/7yCFlrUfuyc?is=L6vNsTd12arnHHUt
+
 Desenvolvido em dupla por:
 
 - **Júlia Vitória**
